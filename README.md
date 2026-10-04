@@ -25,11 +25,12 @@ I am a results-driven **Analytics Engineer** dedicated to building reliable, sca
 **Conversational AI for Data Analytics.**
 A multi-agent system powered by **Google ADK**. It enables natural language interaction with complex datasets (CSV, Excel, Parquet), featuring automated data cleaning, predictive forecasting, and a secure execution sandbox.
 
-#### 📁 [Interactive Portfolio](https://idzharulhuda13.github.io/idzharulhuda-portfolio/)
+#### 📁 [Interactive Portfolio](https://idzharulhuda.com/)
 **Professional Journey & Project Showcase.**
 A deep dive into my professional career, including technical case studies, data architecture patterns, and a full history of my work as an Analytics Engineer.
 
 ---
 
 ### 📫 Connect with me
+[![Website](https://img.shields.io/badge/-idzharulhuda.com-07090A?style=for-the-badge&logo=firefox&logoColor=white)](https://idzharulhuda.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/idzharulhuda)
